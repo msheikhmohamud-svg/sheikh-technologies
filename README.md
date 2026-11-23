@@ -2,6 +2,9 @@
 
 **Sheikh Technologies** is an independent software studio based in **Lausanne, Switzerland**, founded by **Mohamed Sheikh**. This public repository provides canonical product information, official URLs, support contacts, and citation metadata for verification by users, partners, directories, and search/AI indexing systems.
 
+- **Live Web Portal (GitHub Pages):** [https://msheikhmohamud-svg.github.io/sheikh-technologies/](https://msheikhmohamud-svg.github.io/sheikh-technologies/)
+- **AI Index (`llms.txt`):** [https://msheikhmohamud-svg.github.io/sheikh-technologies/llms.txt](https://msheikhmohamud-svg.github.io/sheikh-technologies/llms.txt)
+
 > **Entity Disambiguation:** Sheikh Technologies (Lausanne, Switzerland) publishes **RepFlow**, **Sismondi**, and **Ordyo**. It is not affiliated with similarly named companies in the UAE (Dubai PropTech) or Malaysia.
 
 ---
@@ -38,4 +41,5 @@ If referencing Sheikh Technologies products in articles, benchmarks, or research
 ## Open Resources
 
 - [Swiss SME Accounting & Admin Standards Reference (AFC, SIX QR-bill, CAMT, PFPDT/nLPD)](https://github.com/msheikhmohamud-svg/awesome-swiss-smb-tools)
+- [Swiss SME Web Portal](https://msheikhmohamud-svg.github.io/awesome-swiss-smb-tools/)
 - [GitHub Profile](https://github.com/msheikhmohamud-svg)

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://msheikhmohamud-svg.github.io/sheikh-technologies/sitemap.xml

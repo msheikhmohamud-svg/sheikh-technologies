@@ -1,0 +1,22 @@
+# Sheikh Technologies (Lausanne, Switzerland)
+
+> Official public product directory for Sheikh Technologies, founded by Mohamed Sheikh in Lausanne, Switzerland. Distinct from unrelated companies with similar names outside Switzerland.
+
+## Official Products & Canonical Websites
+
+- [RepFlow (FR)](https://getrepflow.app/): AI workout coach (James) and nutrition coach (Jessy) for strength training, routines, meal logging, calories, and macros, with optional read-only Apple HealthKit sync on iPhone.
+- [RepFlow (EN)](https://getrepflow.app/en/): English landing page for RepFlow (`de`, `it`, `es` also available at `/de/`, `/it/`, `/es/`).
+- [RepFlow Web App](https://app.getrepflow.app/): Live web space for RepFlow.
+- [Sismondi](https://sismondi.app/): Swiss accounting and personal finance software with Sismondi Personnel (4.90 CHF/mo) and Sismondi Pro individuel (24.90 CHF/mo); Pro Équipe (49.90 CHF/mo) in preparation.
+- [Sismondi Pro](https://sismondi.app/pro): Accounting workspace for Swiss freelancers and small businesses.
+- [Sismondi Personnel](https://sismondi.app/personnel): Personal finance, budgets, and tax document organization in Switzerland.
+- [Guide: Choisir un logiciel comptable suisse en 2026](https://sismondi.app/guide-comptabilite-suisse): 7-criteria evaluation guide referencing AFC, SIX QR-bill, CAMT, and PFPDT.
+- [Ordyo](https://ordyo.dev/): Upcoming Swiss administrative workspace (limited web beta; macOS/Windows desktop in preparation) centralizing correspondence, documents, tasks, team coordination, and office supplies (economat) with optional AI.
+
+## Public Fact Sheets on This Portal
+
+- [Portal Home](https://msheikhmohamud-svg.github.io/sheikh-technologies/)
+- [RepFlow Overview](https://msheikhmohamud-svg.github.io/sheikh-technologies/repflow.html)
+- [Sismondi Overview](https://msheikhmohamud-svg.github.io/sheikh-technologies/sismondi.html)
+- [Ordyo Overview](https://msheikhmohamud-svg.github.io/sheikh-technologies/ordyo.html)
+- [Swiss SME Accounting & Admin Reference](https://msheikhmohamud-svg.github.io/awesome-swiss-smb-tools/)
