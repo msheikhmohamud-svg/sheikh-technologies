@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Official citation metadata for Sheikh Technologies (Lausanne, Switzerland) software products."
+title: "Sheikh Technologies — Official Software Portfolio (RepFlow, Sismondi, Ordyo)"
+type: software
+authors:
+  - given-names: "Mohamed"
+    family-names: "Sheikh"
+    city: "Lausanne"
+    country: "CH"
+    email: "contact@getrepflow.app"
+url: "https://sismondi.app/"
+keywords:
+  - "Sheikh Technologies"
+  - "RepFlow"
+  - "Sismondi"
+  - "Ordyo"
+  - "Switzerland"
+  - "Swiss accounting software"
+  - "Swiss administrative software"
+  - "AI workout and nutrition coach"
+references:
+  - type: software
+    title: "RepFlow"
+    url: "https://getrepflow.app/"
+  - type: software
+    title: "Sismondi"
+    url: "https://sismondi.app/"
+  - type: software
+    title: "Ordyo"
+    url: "https://ordyo.dev/"
